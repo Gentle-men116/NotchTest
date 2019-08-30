@@ -1,85 +1,85 @@
 <resources>
-    <string name="app_name">Nots In Notch</string>
-    <string name="title_activity_main">Nots In Notch</string>
-    <string name="accessibility_service_description">Not Used</string>
+    <string name="app_name">Obavijest u Notch-u</string>
+    <string name="title_activity_main">Obavijest u Notch-u</string>
+    <string name="accessibility_service_description">Nije Korišteno</string>
 
-    <string name="check">Check Permissions</string>
+    <string name="check">Provjerite dozvole</string>
 
-    <string name="snooze_notif">Snooze notification thanks to iboalali <a href="https://github.com/iboalali/sysnotifsnooze/blob/master/LICENSE">LICENSE</a></string>
+    <string name="snooze_notif">Odgode notifikacija zahvaljujući iboalali <a href="https://github.com/iboalali/sysnotifsnooze/blob/master/LICENSE">LICENSE</a></string>
     <string name="xda_page"><a href="https://forum.xda-developers.com/showpost.php?p=79021757">xda page</a></string>
-    <string name="col_picker">Color Picker thanks to jaredrummled <a href="https://github.com/jaredrummler/ColorPicker/blob/master/LICENSE">LICENSE</a></string>
-    <string name="y_padding">top padding</string>
-    <string name="icon_size">Icon size</string>
-    <string name="pro_version">PRO VERSION</string>
-    <string name="iconcolor_pro">IconColor</string>
-    <string name="background_pro">Background</string>
-    <string name="none">None</string>
-    <string name="circle">Circle</string>
-    <string name="square">Square</string>
-    <string name="squircle">Squircle</string>
-    <string name="outline">Outline</string>
-    <string name="auto_hide_on_fullscreen">Auto-hide on Fullscreen</string>
-    <string name="write_storage_permission">Write Storage Permission</string>
+    <string name="col_picker">Izabir boja zahvaljujući jaredrummled <a href="https://github.com/jaredrummler/ColorPicker/blob/master/LICENSE">LICENSE</a></string>
+    <string name="y_padding">Odvajanje od vrha</string>
+    <string name="icon_size">Veličina ikona</string>
+    <string name="pro_version">PRO VERZIJA</string>
+    <string name="iconcolor_pro">Boja Ikona</string>
+    <string name="background_pro">Pozadina</string>
+    <string name="none">Bez</string>
+    <string name="circle">Okrugle</string>
+    <string name="square">Kockaste</string>
+    <string name="squircle">Zaobljene</string>
+    <string name="outline">Konturne</string>
+    <string name="auto_hide_on_fullscreen">Auto skrivanje puni ekran</string>
+    <string name="write_storage_permission">Dozvola za pohranu</string>
     <string name="go">Set</string>
-    <string name="remove_battery_limitations_and_grant_boot_permission">Remove Battery Limitations and Grant Boot Permission</string>
-    <string name="notification_access_enable">Give the permission to gather Notifications, this is needed for proper work</string>
-    <string name="overlay_enable">Give the permission to show over other apps, this is needed for proper work</string>
-    <string name="purchase_thanks">Thanks for your support! Now you have pro features!</string>
-    <string name="purchase_failed">Error in the purchase, retry</string>
-    <string name="purchase_canceled">User cancelled transaction</string>
-    <string name="credits">Credits</string>
+    <string name="remove_battery_limitations_and_grant_boot_permission">Ukloniti ograničenja baterije i dati dozvolu za pokretanje</string>
+    <string name="notification_access_enable">Dati dozvolu za prikupljanje obavijesti, potrebno za pravilan rad aplikacije</string>
+    <string name="overlay_enable">Dati dozvolu za prikaz preko drugih aplikacija, potrebno za pravilan rad aplikacije</string>
+    <string name="purchase_thanks">Hvala na podršci! Sada imate PRO funkcije!</string>
+    <string name="purchase_failed">Greška prilikom kupovine, ponoviti</string>
+    <string name="purchase_canceled">Korisnik je otkazao transakciju</string>
+    <string name="credits">Zasluge</string>
 
-    <string name="test">TEST</string>
-    <string name="x_padding">left padding</string>
-    <string name="select">Select</string>
-    <string name="privacy_policy">Privacy Policy</string>
-    <string name="refunded">The order has been refunded, so it is no more available</string>
-    <string name="faq">FAQ</string>
-    <string name="title_activity_hide">Hide</string>
-    <string name="app_intro">App Intro thanks to many <a href="https://github.com/AppIntro/AppIntro/blob/master/LICENSE">LICENSE</a></string>
-    <string name="gif_images">Gif Images thanks to felipecsl <a href="https://github.com/felipecsl/GifImageView/blob/master/LICENSE">LICENSE</a></string>
-    <string name="navigation">Space Navigation thanks to armcha <a href="https://github.com/armcha/Space-Navigation-View#license">LICENSE</a></string>
-    <string name="right_side_setup">Right Side Setup</string>
-    <string name="use_right_side">Use Right Side</string>
-    <string name="system_icons">System Icons</string>
+    <string name="test">TESTIRANJE</string>
+    <string name="x_padding">Lijevo postavljanje</string>
+    <string name="select">Izabrati</string>
+    <string name="privacy_policy">Politika Privatnosti</string>
+    <string name="refunded">Narudžba je refundirana, pa više nije dostupna</string>
+    <string name="faq">ČPP</string>
+    <string name="title_activity_hide">Skriti</string>
+    <string name="app_intro">Intro aplikacije zahvaljujući mnogima<a href="https://github.com/AppIntro/AppIntro/blob/master/LICENSE">LICENSE</a></string>
+    <string name="gif_images">Gif sličice zahvaljujući felipecsl <a href="https://github.com/felipecsl/GifImageView/blob/master/LICENSE">LICENSE</a></string>
+    <string name="navigation">Navigiranje prostorom zahvaljujući armcha <a href="https://github.com/armcha/Space-Navigation-View#license">LICENSE</a></string>
+    <string name="right_side_setup">Postavke Desne Strane</string>
+    <string name="use_right_side">Koristite Desnu Stranu</string>
+    <string name="system_icons">Sistemske ikone</string>
     <string name="wi_fi">Wi-Fi</string>
     <string name="hotspot">Hotspot</string>
     <string name="gps">GPS</string>
     <string name="bluetooth">Bluetooth</string>
-    <string name="do_not_disturb">Do Not Disturb</string>
-    <string name="show_system_info">Show System Info</string>
-    <string name="show_more_icons">Show More Icons</string>
-    <string name="other_setup">Other Setup</string>
-    <string name="use_horizontal_after_rotation">Use Horizontal after rotation</string>
-    <string name="hide_notifications">Hide notifications</string>
-    <string name="show_on_lockscreen_early_beta">Show on Lockscreen (Beta)</string>
-    <string name="show">Show</string>
-    <string name="remove_notchtest_vibration_and_allow_on_lockscreen">Remove Nots In Notch vibration and allow on lockscreen,you can enable led and autoscreen on</string>
-    <string name="collapse_per_package">Only 1 icon per app</string>
-    <string name="gestures">Gestures</string>
-    <string name="navigation_bar">Navigation Bar</string>
-    <string name="natural_colors">Original Colors</string>
-    <string name="hiding_setup">Hiding Setup</string>
+    <string name="do_not_disturb">Ne Ometaj</string>
+    <string name="show_system_info">Prikaži Sistemski Info</string>
+    <string name="show_more_icons">Prikaži Više Ikona</string>
+    <string name="other_setup">Ostale Postavke</string>
+    <string name="use_horizontal_after_rotation">Koristite vodoravno nakon rotacije</string>
+    <string name="hide_notifications">Sakriti obavijesti</string>
+    <string name="show_on_lockscreen_early_beta">Prikaži na zaključanom zaslonu (Beta)</string>
+    <string name="show">Prikaži</string>
+    <string name="remove_notchtest_vibration_and_allow_on_lockscreen">Uklonite obavijesti u Notch vibraciji i dopustite na zaključanom ekranu, možete uključiti led i automatski ekran</string>
+    <string name="collapse_per_package">Samo 1 ikona po aplikaciji</string>
+    <string name="gestures">Geste</string>
+    <string name="navigation_bar">Navigacijska traka</string>
+    <string name="natural_colors">Originalne Boje</string>
+    <string name="hiding_setup">Skriti postavke</string>
     <string name="which_navigation_type_do_you_use_used_for_fullscreen_hide">Which navigation type do you use? Used for fullscreen hide</string>
-    <string name="colors_and_shape">Colors and Shape</string>
-    <string name="portrait_orientation">Portrait orientation</string>
-    <string name="icon_number">Icon Number</string>
-    <string name="horizontal_orientation">Horizontal orientation</string>
-    <string name="horizontal">Horizontal</string>
-    <string name="vertical">Vertical</string>
-    <string name="right_side">Right side</string>
-    <string name="align">Align</string>
-    <string name="left">Left</string>
-    <string name="right">Right</string>
-    <string name="horizontal_padding">Horizontal padding</string>
-    <string name="permission_needed">Permission Needed</string>
+    <string name="colors_and_shape">Boje i Oblici</string>
+    <string name="portrait_orientation">Uspravna orijentacija</string>
+    <string name="icon_number">Broj Ikone</string>
+    <string name="horizontal_orientation">Horizontalna orijentacija</string>
+    <string name="horizontal">Horizontalno</string>
+    <string name="vertical">Vertikalno</string>
+    <string name="right_side">Desna strana</string>
+    <string name="align">Poravnaj</string>
+    <string name="left">Lijevo</string>
+    <string name="right">Desno</string>
+    <string name="horizontal_padding">Horizontalno poravnati</string>
+    <string name="permission_needed">Potrebna dozvolu</string>
     <string name="vpn">VPN</string>
-    <string name="clean_ram">Clean RAM</string>
-    <string name="swipe_manually">Swipe Manually</string>
-    <string name="lock_in_ram">Lock in RAM</string>
-    <string name="position">POSITION</string>
-    <string name="visual">VISUAL</string>
-    <string name="settings">SETTINGS</string>
+    <string name="clean_ram">Očistite RAM</string>
+    <string name="swipe_manually">Prevucite Ručno</string>
+    <string name="lock_in_ram">Zaključavanje u RAM-u</string>
+    <string name="position">POZICIJA</string>
+    <string name="visual">VIZUALNO</string>
+    <string name="settings">POSTAVKE</string>
     <string name="pro">PRO</string>
 
 
